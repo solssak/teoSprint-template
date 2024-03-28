@@ -3,8 +3,10 @@
   <img src="https://github.com/solssak/teoSprint-template/assets/107416133/5ef1229b-ff3f-4016-ae49-ce9047f80f63).png" width="300" height="300"/>
 </p>
 
-## {서비스 한 줄 소개}
+## {서비스 한 줄 소개(슬로건)}
 <br >
+
+## 개발 기간
 
 ## 서비스 소개
 ```jsx
@@ -17,3 +19,13 @@
 ```
 <br >
 <br >
+
+## 참여자
+
+## 기술 스택
+
+### 프론트엔드
+
+### 백엔드
+
+### 디자인
