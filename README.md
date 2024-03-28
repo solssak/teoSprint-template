@@ -2,5 +2,4 @@
 <p align="center">
   <img src="https://github.com/solssak/teoSprint-template/assets/107416133/5ef1229b-ff3f-4016-ae49-ce9047f80f63).png" width="300" height="300"/>
 </p>
-
-<br>
+## 프로덕트 한 줄 소개
