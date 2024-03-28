@@ -3,12 +3,14 @@
   <img src="https://github.com/solssak/teoSprint-template/assets/107416133/5ef1229b-ff3f-4016-ae49-ce9047f80f63).png" width="300" height="300"/>
 </p>
 
-## {서비스 한 줄 소개(슬로건)}
+## {서비스 한 줄 소개(슬로건 등)}
 
 <br >
 
-## 🗓️ 개발 기간
+# 🗓️ 개발 기간
+```jsx
 24.03.10 ~ 24.03.14
+```
 
 # 💻 서비스 소개
 ```jsx
