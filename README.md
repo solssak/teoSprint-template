@@ -1,4 +1,4 @@
-# 테오의 스프린트 17기 - OO조
+# 테오의 스프린트 17기 - {OO조 - 서비스명}
 <p align="center">
   <img src="https://github.com/solssak/teoSprint-template/assets/107416133/5ef1229b-ff3f-4016-ae49-ce9047f80f63).png" width="300" height="300"/>
 </p>
@@ -23,7 +23,7 @@
 ## 참여자
 
 ## 기술 스택
-
+{https://simpleicons.org/ <-- 해당 링크에서 기술 스택의 아이콘을 가져올 수 있습니다. 팀에서 채택한 기술 스택을 추가해보세요}
 ### 프론트엔드
 
 ### 백엔드
