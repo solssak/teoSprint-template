@@ -43,11 +43,13 @@
 ### 프론트엔드
 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/nextdotjs-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
 
 ### 백엔드
 
 <img src="https://img.shields.io/badge/java-3a75b0?style=for-the-badge&logo=java&logoColor=black">
+<img src="https://img.shields.io/badge/nestjs-#E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
 
 
 ### 디자인
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=amazonec2&logoColor=white">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
