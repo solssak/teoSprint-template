@@ -35,10 +35,11 @@
 <br>
 
 # ⚙️ 기술 스택
+<div align="middle">
+  
 {https://simpleicons.org/
 위 링크를 활용해 팀에서 채택한 기술 스택 아이콘을 각 파트에 맞게 추가해보세요}
 
-<div align="middle">
   
 ### 프론트엔드
 
