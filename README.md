@@ -37,14 +37,14 @@
 # ⚙️ 기술 스택
 {https://simpleicons.org/
 위 링크를 활용해 팀에서 채택한 기술 스택 아이콘을 각 파트에 맞게 추가해보세요}
-### 프론트엔드
+
 <div align="middle">
+  
+### 프론트엔드
 
 <img src="https://img.shields.io/badge/java-3a75b0?style=for-the-badge&logo=java&logoColor=black">
 
 ### 백엔드
-
-<div align="middle">
 
 <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
 
